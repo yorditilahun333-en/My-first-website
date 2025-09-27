@@ -1,0 +1,33 @@
+body {
+  background-color:white;
+  font-family: Arif, sans-serif;
+  marign:20px;
+  padding:20px;
+ }
+
+h1 {
+   color:lightblue;
+   font-size: 36px;
+
+}
+
+p {
+  color:silver;
+  font-size: 18px;
+  line-height:1.6;
+
+}
+
+img {
+  marign-top:15px;
+  border:2PC solid #2c3e50;
+}
+
+
+
+
+
+
+
+
+
