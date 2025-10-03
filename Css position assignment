@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>Css position assignment</title>
+    <link rel="stylesheet" herf="style.css"/>
+  </head>
+   <body>
+  <div class="container">
+   <div class="top-right">Top Right</div>
+    <div class="top-right">Top Right</div>
+     <div class="bottom-left">Bottom left</div>
+      <div class="bottom-right">Bottom Right </div>
+      <div class="center">center</div>
+     </div>
+      </body>
+      </html>
+     
